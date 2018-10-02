@@ -114,6 +114,7 @@ add the Following code to the &lt;head&gt; of your document.
 
             rtl:false,
             adaptiveHeight:false,
+            centerSlide: false, // center the active slide
 
             vertical:false,
             verticalHeight:500,
